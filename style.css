@@ -3,5 +3,10 @@ body{
 }
 
 header{
+    /*dev1*/
     color: aliceblue;
+
+    /*dev2*/
+    margin: auto;
+    padding: 20px;
 }
